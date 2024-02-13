@@ -1,26 +1,34 @@
 [
     {
       "title": "POS System",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the Angular and Spring Boot technologies",
+      "imageSrc": "projects/pos.png",
+      "description": "This is a project made to learn the Angular and Java technologies",
       "skills": ["Angular", "Spring Boot", "PostgreSQL"],
       "demo": "https://www.example.com",
       "source": "https://github.com/RifkhanMohamed/pos"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "title": "Tracking Management System",
+      "imageSrc": "projects/tms.png",
+      "description": "This is a project made to learn the private blockchain technology",
+      "skills": ["Hyperledger Fabric", "React"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/RifkhanMohamed/Tracking-Management-System"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "title": "Marketing App",
+      "imageSrc": "projects/ajm.png",
+      "description": "This is a project made for client",
+      "skills": ["React Native", "Firebase", "Node"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/RifkhanMohamed/AJ"
+    },
+    {
+      "title": "Wheelchair Users App",
+      "imageSrc": "projects/wua.png",
+      "description": "This is a project made for university project",
+      "skills": ["Android Studio", "Firebase", "Java"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/RifkhanMohamed/AJ"
     }
   ]
