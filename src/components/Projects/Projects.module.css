@@ -30,7 +30,22 @@
     margin: 0 auto;
   }
   
+  /* .projectCardWrapper {
+    margin: 20px;
+  
+  } */
+
   .projectCardWrapper {
-    margin: 0 20px; /* Adjust the margin between cards as needed */
+    width: calc(100% / 3); /* Default width for larger screens with 3 cards */
+  
+    @media screen and (max-width: 830px) {
+      width: calc(100% / 2); /* Adjust width for screens <= 830px with 2 cards */
+    }
+  
+    @media screen and (max-width: 600px) {
+      width: 100%; /* Adjust width for screens <= 600px with 1 card */
+    }
   }
+  
+  
   
