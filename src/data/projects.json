@@ -1,11 +1,11 @@
 [
     {
-      "title": "Project A",
+      "title": "POS System",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "This is a project made to learn the Angular and Spring Boot technologies",
+      "skills": ["Angular", "Spring Boot", "PostgreSQL"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/RifkhanMohamed/pos"
     },
     {
       "title": "Project B",
