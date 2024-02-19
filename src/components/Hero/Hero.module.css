@@ -123,11 +123,20 @@
   height: 50px; /* Adjust the height as needed */
   font-size: 16px;
   flex-direction: row;
+
+  /* Add any other styling as needed */
+}
+
+.textAnimation{
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
-  /* Add any other styling as needed */
+}
+
+.cvText{
+  font-size: 36px;
+  font-weight: bold;
 }
 
 .buttonContainer {

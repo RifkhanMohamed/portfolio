@@ -34,7 +34,9 @@ export const Hero = () => {
           <a href="mailto:ar.mohamed.rifkhan@gmail.com" className={styles.contactBtn}>
             Contact Me
           </a>
-          <div>
+          
+          <div className={styles.textAnimation}>
+            <div className={styles.cvText}>CV</div>
             <button className={styles.gifButton}  onClick={handleDownload}></button>
           </div>
         </div>
