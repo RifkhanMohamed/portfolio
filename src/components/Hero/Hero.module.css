@@ -123,6 +123,10 @@
   height: 50px; /* Adjust the height as needed */
   font-size: 16px;
   flex-direction: row;
+  animation-name: floating;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
   /* Add any other styling as needed */
 }
 
