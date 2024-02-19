@@ -35,9 +35,9 @@ export const Hero = () => {
             Contact Me
           </a>
           
-          <div className={styles.textAnimation}>
+          <div className={styles.textAnimation} onClick={handleDownload}>
             <div className={styles.cvText}>CV</div>
-            <button className={styles.gifButton}  onClick={handleDownload}></button>
+            <button className={styles.gifButton}  ></button>
           </div>
         </div>
       </div>
