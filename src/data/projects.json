@@ -1,26 +1,38 @@
 [
     {
       "title": "POS System",
-      "imageSrc": "projects/pos.png",
+      "imageSrc": "projects/pos/pos.png",
       "description": "This is a project made to learn the Angular and Java technologies",
-      "skills": ["Angular", "Spring Boot", "PostgreSQL"],
-      "demo": "https://www.example.com",
+      "skills": ["Angular", "Spring Boot", "PostgreSQL", "TypeScript", "Html", "CSS", "Bootstrap", "JWT Autentication"],
+      "demo": ["projects/pos/pos.png",
+               "projects/pos/pos2.png",
+               "projects/pos/pos3.png",
+               "projects/pos/pos4.png",
+               "projects/pos/pos5.png",
+               "projects/pos/pos6.png",
+               "projects/pos/pos7.png",
+               "projects/pos/pos8.png",
+               "projects/pos/pos9.png",
+               "projects/pos/pos10.png",
+               "projects/pos/pos11.mp4"],
       "source": "https://github.com/RifkhanMohamed/pos"
     },
     {
       "title": "Tracking Management System",
-      "imageSrc": "projects/tms.png",
+      "imageSrc": "projects/tms/tms.png",
       "description": "This is a project made to learn the private blockchain technology",
-      "skills": ["Hyperledger Fabric", "React"],
-      "demo": "https://www.example.com",
+      "skills": ["Hyperledger Fabric", "React", "Couch DB", "GO", "Docker"],
+      "demo": ["projects/tms/tms.png",
+               "projects/tms/tms.png"
+              ],
       "source": "https://github.com/RifkhanMohamed/Tracking-Management-System"
     },
     {
       "title": "Marketing App",
       "imageSrc": "projects/ajm.png",
       "description": "This is a project made for client",
-      "skills": ["React Native", "Firebase", "Node"],
-      "demo": "https://www.example.com",
+      "skills": ["React Native", "Firebase", "NodeJS"],
+      "demo": ["projects/pos.png"],
       "source": "https://github.com/RifkhanMohamed/AJ"
     },
     {
@@ -28,7 +40,7 @@
       "imageSrc": "projects/wua.png",
       "description": "This is a project made for university project",
       "skills": ["Android Studio", "Firebase", "Java"],
-      "demo": "https://www.example.com",
+      "demo": ["projects/pos.png"],
       "source": "https://github.com/RifkhanMohamed/wheel-chair-users"
     }
   ]

@@ -8,6 +8,7 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
+  min-height: 500px;
 }
 
 .image {
@@ -45,10 +46,12 @@
 
 .links {
   width: 100%;
-  margin-top: 26px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  align-items: flex-end; /* Align buttons to the bottom */
+  margin-top: auto; /* This will push the links to the bottom */
 }
+
 
 .link {
   text-decoration: none;
@@ -58,4 +61,15 @@
   border-radius: 100px;
   background: var(--color-primary);
   padding: 1px 22px;
+}
+
+.imageSlider {
+  /* margin: 10px; */
+  max-width: 100%;
+  /* margin-left: 20px; */
+}
+
+.projectsSlider {
+  width: 100%; /* Adjust the width as needed */
+  margin: 0 auto;
 }
