@@ -23,7 +23,14 @@
       "description": "This is a project made to learn the private blockchain technology",
       "skills": ["Hyperledger Fabric", "React", "Couch DB", "GO", "Docker"],
       "demo": ["projects/tms/tms.png",
-               "projects/tms/tms.png"
+               "projects/tms/tms2.png",
+               "projects/tms/tms3.png",
+               "projects/tms/tms4.png",
+               "projects/tms/tms5.png",
+               "projects/tms/tms6.png",
+               "projects/tms/tms7.png",
+               "projects/tms/tms8.png",
+               "projects/tms/tms9.mp4"
               ],
       "source": "https://github.com/RifkhanMohamed/Tracking-Management-System"
     },
@@ -32,7 +39,7 @@
       "imageSrc": "projects/ajm.png",
       "description": "This is a project made for client",
       "skills": ["React Native", "Firebase", "NodeJS"],
-      "demo": ["projects/pos.png"],
+      "demo": ["projects/ajm.png","projects/ajm.png"],
       "source": "https://github.com/RifkhanMohamed/AJ"
     },
     {
@@ -40,7 +47,7 @@
       "imageSrc": "projects/wua.png",
       "description": "This is a project made for university project",
       "skills": ["Android Studio", "Firebase", "Java"],
-      "demo": ["projects/pos.png"],
+      "demo": ["projects/wua.png","projects/wua.png"],
       "source": "https://github.com/RifkhanMohamed/wheel-chair-users"
     }
   ]
