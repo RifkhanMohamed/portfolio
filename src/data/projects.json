@@ -36,10 +36,10 @@
     },
     {
       "title": "Marketing App",
-      "imageSrc": "projects/ajm.png",
+      "imageSrc": "projects/ajm/ajm.png",
       "description": "This is a project made for client",
       "skills": ["React Native", "Firebase", "NodeJS"],
-      "demo": ["projects/ajm.png","projects/ajm.png"],
+      "demo": ["projects/ajm/ajm.png","projects/ajm/ajm.mp4"],
       "source": "https://github.com/RifkhanMohamed/AJ"
     },
     {
