@@ -44,10 +44,10 @@
     },
     {
       "title": "Wheelchair Users App",
-      "imageSrc": "projects/wua.png",
+      "imageSrc": "projects/wua/wua.png",
       "description": "This is a project made for university project",
       "skills": ["Android Studio", "Firebase", "Java"],
-      "demo": ["projects/wua.png","projects/wua.png"],
+      "demo": ["projects/wua/wua.png","projects/wua/wua.mp4"],
       "source": "https://github.com/RifkhanMohamed/wheel-chair-users"
     }
   ]

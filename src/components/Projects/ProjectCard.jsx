@@ -90,7 +90,7 @@ export const ProjectCard = ({
                     <video
                       controls
                       width="100%"
-                      height="100%"
+                      height="500px"
                       className={styles.imageSlider}
                     >
                       <source src={getImageUrl(media)} type="video/mp4" />
